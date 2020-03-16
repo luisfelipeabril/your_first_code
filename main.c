@@ -5,5 +5,9 @@ int main()
   {
     printf("Holberton\n");
   }
+int b;
+for(b=0; b<5; b++)
+{printf("muy carajo");
+}
   return 0;
 }
